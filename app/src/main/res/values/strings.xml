@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nain Painter</string>
+    <string name="capture">Capture</string>
+    <string name="select_color">Select Color</string>
+</resources>

@@ -31,3 +31,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+.DS_Store
+app/src/androidTest/java/com/home/nainpainter/ExampleInstrumentedTest.kt
+gradle/wrapper/gradle-wrapper.jar
+opencv/etc/haarcascades/haarcascade_frontalface_default.xml
+opencv/
+gradle/
+build/
+app/build/
+
